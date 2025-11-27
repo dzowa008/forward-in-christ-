@@ -1,0 +1,9 @@
+{
+  "name": "Jesus Christ is Lord",
+  "description": "A comprehensive spiritual platform for Zimbabwean congregations featuring AI spiritual guidance, community chat, live sermon streaming, short-form worship content, and interactive tools.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
